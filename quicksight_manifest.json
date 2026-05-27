@@ -1,0 +1,12 @@
+{
+    "fileLocations": [
+        {
+            "URIs": [
+                "https://eu-north-1.console.aws.amazon.com/s3/object/akilli-sehir-grafik-deposu?region=eu-north-1&prefix=AWSDynamoDB/01779892396160-5094932c/manifest-summary.json"
+            ]
+        }
+    ],
+    "globalUploadSettings": {
+        "format": "JSON"
+    }
+}
